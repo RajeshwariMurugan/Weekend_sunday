@@ -1,2 +1,11 @@
 place:  Chennai is the capital of Tamilnadu
 We are live in Sholinganallur
+place: New Delhi is the capital of India
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 386 bytes | 77.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/RajeshwariMurugan/Weekend_sunday.git
+   d3b9ee2..d606e5f  tp -> tp
